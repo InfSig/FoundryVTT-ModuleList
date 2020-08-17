@@ -9,3 +9,5 @@
 - [Obsidian](https://bitbucket.org/Fyorl/obsidian/src/master/) - Dark mode essentially with a lot of high level customization. Slightly dangerous as it does change how actor data is stored.
 - [Favorite Item Tab](https://github.com/syl3r86/favtab) - Adds a favorite item tab QoL improvment for people who want to stick with default.
 - [DnDBeyond 5e Sheet](https://github.com/jopeek/fvtt-dndbeyond-character-sheet) - A character sheet that mimics the design of DnDBeyond's layout. Has an issue with filtering.
+- [DnD5e Darkmode](https://github.com/Stryxin/dnd5edark-foundryvtt) - A darkmode version of the character sheet.
+- [Better NPC Sheet 5e](https://github.com/syl3r86/BetterNPCSheet5e) - A character sheet that is more in line with official WoTC content.
