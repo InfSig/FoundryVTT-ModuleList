@@ -34,6 +34,8 @@
 - [Token Health](https://github.com/tonifisler/foundry-token-health) - Adjust multiple token or groups health at once.
 - [Token Info Icons](https://github.com/jopeek/fvtt-token-info-icons) - Shows stats like passive perception, speed, and AC when on the token
 - [Maestro](https://github.com/death-save/maestro) - Tons of sound related options such as making a track play whenever it is the player's turn.
+- [VTTA Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer) - Make tokens on the fly ingame.
+- [VTTA Party](https://www.vttassets.com/assets/vtta-party) - Keep critical party info available to the party and the DM.
 
 ## QoL For The Players
 - [Token Hotbar](https://github.com/janssen-io/foundry-token-hotbar) - Assign hotbars to tokens individually.
